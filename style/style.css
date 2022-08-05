@@ -1,0 +1,119 @@
+
+
+.wrapper{
+    width: 100% !important;
+    background: rgb(237, 236, 236) !important;
+}
+.wrapper p{
+   color:#C381DB;
+}
+.wrapper .btn{
+    background: white ;
+    color: #C381DB;
+
+}
+.list{
+    list-style-type: none;
+}
+.item2{
+    background:url(../image/Background\ Elements\ 2.png);
+}
+.item{
+    background: url(../image/Background\ Elements\ 1.png);
+}
+button{
+    border: none;
+}
+.text{
+    padding-top: 144px !important;
+    padding-bottom: 210px;
+    margin-left: 200px !important;
+}
+.text h1{
+    color: #C381DB;
+}
+.text .btn{
+    background: #C381DB;
+}
+.nav2{
+    width: 80% !important;
+}
+.box{
+    margin-top: 101px !important;
+}
+.big_card{
+    background:url(../image/Rectangle\ 31.png);
+    background:no-repeat;
+    margin-top: 93px !important;
+    width: 85% !important;
+}
+.card{
+    background: #F3F3F340;
+    border-radius: 25px;
+    border: 2px solid white;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.flex-wrap{
+    width: 70% !important;
+
+}
+
+.text3{
+    width: 50% !important;
+    margin:0 122px;
+    margin-top: 130px;
+}
+.text4{
+    width: 50% !important;
+    margin-top: 100px;
+}
+.img{
+    margin:0 122px
+}
+.card3 img{
+    width: 500px;
+    
+}
+.card3 .btn{
+
+    color:  #C381DB;
+    border: 2px solid  #C381DB;
+    background: #FFFFFF1A;
+}
+.one{
+    margin: 5px;
+    margin-top: -150px;
+}
+.two{
+    margin: 5px;
+}
+.three{
+    margin: 5px;
+    margin-top: -150px;
+}
+.four{
+    margin: 5px;
+    margin-top: -145px;
+
+}
+.five{
+    margin: 5px;
+}
+.six{
+    margin: 5px;
+    margin-top: -145px;
+}
+button{
+    border:2px solid #C381DB;
+    color:#C381DB !important;
+}
+.box4{
+    margin-top: 113px !important;
+ width: 80% !important;
+}
+.img5{
+    width: 20% !important;
+}
